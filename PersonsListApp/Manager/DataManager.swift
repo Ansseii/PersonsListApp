@@ -6,6 +6,7 @@
 //  Copyright © 2020 Aleksandr Lukash. All rights reserved.
 //
 
+//DD
 class DataManager {
   
   static let instance = DataManager()
